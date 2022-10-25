@@ -1,0 +1,20 @@
+[INFO ] 2022-10-24 21:02:41.288 [main] Log - I am in onStart method AuthTest
+[INFO ] 2022-10-24 21:02:45.818 [main] Log - I am in onStart method AuthTest
+[INFO ] 2022-10-24 21:02:47.068 [main] Log - testCreateBooking test is starting.
+[INFO ] 2022-10-24 21:02:48.794 [main] Log - testCreateBooking test is succeed.
+[INFO ] 2022-10-24 21:02:49.176 [main] Log - testCreateBooking test is failed.
+[INFO ] 2022-10-24 21:02:49.177 [main] Log - I am in onFinish method AuthTest
+[INFO ] 2022-10-24 21:02:50.663 [main] Log - testCreateBooking test is starting.
+[INFO ] 2022-10-24 21:02:51.751 [main] Log - testCreateBooking test is succeed.
+[INFO ] 2022-10-24 21:02:52.029 [main] Log - testCreateBooking test is failed.
+[INFO ] 2022-10-24 21:02:52.031 [main] Log - I am in onFinish method AuthTest
+[INFO ] 2022-10-24 21:04:34.228 [main] Log - I am in onStart method AuthTest
+[INFO ] 2022-10-24 21:04:39.138 [main] Log - testCreateBooking test is starting.
+[INFO ] 2022-10-24 21:04:40.710 [main] Log - testCreateBooking test is succeed.
+[INFO ] 2022-10-24 21:04:40.981 [main] Log - testCreateBooking test is failed.
+[INFO ] 2022-10-24 21:04:40.982 [main] Log - I am in onFinish method AuthTest
+[INFO ] 2022-10-24 21:10:46.511 [main] Log - I am in onStart method AuthTest
+[INFO ] 2022-10-24 21:10:59.083 [main] Log - testCreateBooking test is starting.
+[INFO ] 2022-10-24 21:11:00.027 [main] Log - testCreateBooking test is succeed.
+[INFO ] 2022-10-24 21:11:00.506 [main] Log - testCreateBooking test is failed.
+[INFO ] 2022-10-24 21:11:00.507 [main] Log - I am in onFinish method AuthTest
