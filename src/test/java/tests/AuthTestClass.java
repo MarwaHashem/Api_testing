@@ -40,7 +40,7 @@ public class AuthTestClass{
         }
         @Test(priority = 0)
         public void testCreateBooking(Method method){
-            startTest(method.getName(), "Invalid Login Scenario with empty username and password.");
+            startTest(method.getName(), "Create Booking.");
            String endPointUrl="https://restful-booker.herokuapp.com/booking";
             String body= """
              {
@@ -69,7 +69,7 @@ public class AuthTestClass{
         }
         @Test(priority = 1, dependsOnMethods = "testCreateBooking")
         public void testEditBooking(Method method){
-            startTest(method.getName(), "Invalid Login Scenario with empty username and password.");
+            startTest(method.getName(), "Update Booking.");
 
             String endPointUrl="https://restful-booker.herokuapp.com/booking/" +bookingId;
             String body= """
@@ -98,7 +98,7 @@ public class AuthTestClass{
 
         @Test(priority = 2, dependsOnMethods = "testEditBooking")
         public void testGetBooking(Method method){
-            startTest(method.getName(), "Invalid Login Scenario with empty username and password.");
+            startTest(method.getName(), "Get Booking.");
             String endPointUrl="https://restful-booker.herokuapp.com/booking/" +bookingId;
             var validatableResponse = given()
                     .header("Accept","application/json")
@@ -110,7 +110,7 @@ public class AuthTestClass{
 
         @Test(priority = 3, dependsOnMethods = "testGetBooking")
         public void testDeleteBooking(Method method){
-            startTest(method.getName(), "Invalid Login Scenario with empty username and password.");
+            startTest(method.getName(), "Delete Booking.");
             String endPointUrl="https://restful-booker.herokuapp.com/booking/" +bookingId;
 
             var validatableResponse = given()
