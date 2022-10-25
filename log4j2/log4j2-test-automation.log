@@ -58,3 +58,14 @@
 [INFO ] 2022-10-25 17:05:52.053 [main] Log - testDeleteBooking test is starting.
 [INFO ] 2022-10-25 17:05:52.943 [main] Log - testDeleteBooking test is succeed.
 [INFO ] 2022-10-25 17:05:52.947 [main] Log - I am in onFinish method AuthTest
+[INFO ] 2022-10-25 17:49:46.941 [main] Log - I am in onStart method AuthTest
+[INFO ] 2022-10-25 17:49:46.981 [main] Log - Tests is starting!
+[INFO ] 2022-10-25 17:49:50.859 [main] Log - testCreateBooking test is starting.
+[INFO ] 2022-10-25 17:49:52.255 [main] Log - testCreateBooking test is succeed.
+[INFO ] 2022-10-25 17:49:52.264 [main] Log - testEditBooking test is starting.
+[INFO ] 2022-10-25 17:49:53.127 [main] Log - testEditBooking test is succeed.
+[INFO ] 2022-10-25 17:49:53.130 [main] Log - testGetBooking test is starting.
+[INFO ] 2022-10-25 17:49:53.954 [main] Log - testGetBooking test is succeed.
+[INFO ] 2022-10-25 17:49:53.956 [main] Log - testDeleteBooking test is starting.
+[INFO ] 2022-10-25 17:49:54.743 [main] Log - testDeleteBooking test is succeed.
+[INFO ] 2022-10-25 17:49:54.745 [main] Log - I am in onFinish method AuthTest
